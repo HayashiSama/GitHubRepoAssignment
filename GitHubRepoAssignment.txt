@@ -1,0 +1,8 @@
+Made a new repository on HitHub called GitHubRepoAssignment.
+mkdir GitHubRepoAssignment
+git init
+touch readme.md
+git status
+git add readme.md
+git commit -m "added readme.md"
+git push origin master
